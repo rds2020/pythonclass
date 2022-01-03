@@ -1,3 +1,5 @@
-print ('Hello San Diego')
-day = input ('What day is it?')
-print (day)
+x = 4
+if x > 1 :
+    Print ('x')
+    x = x - 1
+print ('And Done')
