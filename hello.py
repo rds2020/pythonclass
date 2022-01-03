@@ -1,5 +1,5 @@
 x = 4
 if x > 1 :
-    Print ('x')
+    Print (x)
     x = x - 1
 print ('And Done')
